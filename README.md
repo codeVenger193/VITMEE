@@ -41,20 +41,20 @@ Also in my set there was not a single question from Pointers, malloc, calloc, li
 ## Ishan, Rank 16
 Q. How long is a MAC address?- 48 bits                                         
 Q. Which of the following is not a class of IP Address- class F                                 
-Q. Question related to vonn neumann architecture.                               
-Q. Data link layer- which of the following is an error detection technique.
-Q. If there are multiple bit error, which method would we used to detect it.
-Q. Simplify (x-5)(x+4)
-Q. If a,b,c are in hp, find the relation between a,b and c
-Q. Question related to semaphore
-Q. Code question where in switch case break wasn't used, so we need to tell till where would the code print if case is executed.
-Q. One question on storage types in C- auto, extern etc.
-Q. Question on independent or depend probability. (A∩B) = P(A) · P(B)
-English
-Q. Some questions related to types of questionnaire.
-Q. Where do we sign when writing minutes- bottom left, right, top left right etc.
-Q. What kind of language should we use when writing technical instructions.
-Q. Fill in the blanks.
+Q. Question related to vonn neumann architecture.                                 
+Q. Data link layer- which of the following is an error detection technique.                 
+Q. If there are multiple bit error, which method would we used to detect it.                                       
+Q. Simplify (x-5)(x+4)                                      
+Q. If a,b,c are in hp, find the relation between a,b and c                                                      
+Q. Question related to semaphore                                      
+Q. Code question where in switch case break wasn't used, so we need to tell till where would the code print if case is executed.                          
+Q. One question on storage types in C- auto, extern etc.                              
+Q. Question on independent or depend probability. (A∩B) = P(A) · P(B)                               
+English                                                    
+Q. Some questions related to types of questionnaire.                                
+Q. Where do we sign when writing minutes- bottom left, right, top left right etc.                          
+Q. What kind of language should we use when writing technical instructions.                               
+Q. Fill in the blanks.                            
 
 ## Chirag, Rank 45
 I'll try to recall as much as I can...
