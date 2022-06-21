@@ -67,6 +67,19 @@ One can expect questions from scheduling algorithms topics but the question will
 There can be some questions which are not included in the syllabus specifically but could be asked. Specially regarding hardware.
 Studying all layers in CN is must. Probably the most important topic in the exam to be expected.
 
+## Vyom, Rank 34
+20 questions from English
+DSA -> basic theory-based question
+->LinkedList and array
+->Binary Search
+-> Time Complexity
+C -> I/O questions, memory management
+OS-> scheduling algorithm
+DBMS-> only basic theory (No SQL queries)
+CN-> layers and IP, MAC addresses.
+COA-> left/right shift, ALU, pipelines
+Maths-> 2 probability questions, 1 basic quad equation and 1 differentation.
+
 ## Raghav
 25 question from english - easy level
 from remaining 75 around 4-5 questions were from maths from topics like - probability, p and c, binomial, stats
@@ -93,18 +106,14 @@ FIFO ANF LIFO
 Arithmetic Operator Precedance
 Probability
 
-## Vyom, Rank 34
-20 questions from English
-DSA -> basic theory-based question
-->LinkedList and array
-->Binary Search
--> Time Complexity
-C -> I/O questions, memory management
-OS-> scheduling algorithm
-DBMS-> only basic theory (No SQL queries)
-CN-> layers and IP, MAC addresses.
-COA-> left/right shift, ALU, pipelines
-Maths-> 2 probability questions, 1 basic quad equation and 1 differentation.
-
 ## Sakshi, Rank 244
 The test level is moderate there were the basics of computer and personally in my paper there were 5-6 questions for maths of probability, matrices and complex number and and if you study for 10 days before exam you can clear it. I just study for 10 days and the result is here. Just focus on basics of computer and just see the English topics once ie. Minutes and memos
+
+## Vaibhav,
+Mostly the questions are from core subjects Like networking, computer organization, operating system and stuff very few maths questions only 2-3 questions were from maths. I don't rememer the questions exactly but the most questions were from operating system and organization but the questions was a bit difficult in depth.
+
+## Ullas,
+From what I remember matrix 2-3 questions I got. Most of the questions are from c such as find the error in the below code or find the output etc Then computer network, scheduling algo are important. Maths I just guessed and wrote and English was way too easy.
+
+## Sagar,
+computer awareness thoda jaada tha 20 english jo easy tha. math thoda difficult ho sakata hai but koi fark nhi padega kui ki no of question 5 se 6 hi hoga
