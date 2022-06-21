@@ -39,9 +39,9 @@ Also in my set there was not a single question from Pointers, malloc, calloc, li
 
 
 ## Ishan, Rank 16
-Q. How long is a MAC address?- 48 bits
-Q. Which of the following is not a class of IP Address- class F
-Q. Question related to vonn neumann architecture.
+Q. How long is a MAC address?- 48 bits                                         
+Q. Which of the following is not a class of IP Address- class F                                 
+Q. Question related to vonn neumann architecture.                               
 Q. Data link layer- which of the following is an error detection technique.
 Q. If there are multiple bit error, which method would we used to detect it.
 Q. Simplify (x-5)(x+4)
