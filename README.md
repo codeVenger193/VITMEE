@@ -117,3 +117,22 @@ From what I remember matrix 2-3 questions I got. Most of the questions are from 
 
 ## Sagar,
 computer awareness thoda jaada tha 20 english jo easy tha. math thoda difficult ho sakata hai but koi fark nhi padega kui ki no of question 5 se 6 hi hoga
+
+## Shivam, Rank 385
+the computer questions were pretty generic from Our BSc./BCA syllabus.
+Many of them about
+- "what will be the output of the following?"
+- Complexity of Binary Search tree
+- Transversal (binary tree)
+In mathematics i remember 2 questions: 1 from probability and the other Sum of Infinite GP
+
+## Ehan, Rank 422
+English to ekdam basic koi bhi English mock test dedo wesa hi tha .
+Maths me probability ke questions the basic wale hi ek differentiation tha
+Programing ke 4-5 the jo output nikalne the bas .
+DSA ke topics wale the
+Memory management, computer networks, osi model se ek tha , database management system ke basic
+
+## Prince, Rank 627
+There was one question in which we have to find moduls of a complex number. One question was from probability.Mostly questions were very easy level And there were questions about string
+Arrays. C programs, there were some programs written we have to predict the output what will print.
